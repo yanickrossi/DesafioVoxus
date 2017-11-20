@@ -36,6 +36,8 @@ Nunca tinha usado o MySQL, somente havia tido experiências com o PostgreSQL, en
 Realizei poucos testes e é importante modificar(se preciso) o usuário e a senha para realizar a conexão com o banco de dados no arquivo ConnectionFactory.java.
 Não fiz a parte de anexar arquivos às tarefas nem de integrar com o servidor AWS, mas tenho certeza que conseguiria fazer, já que meu ultimo trabalho foi exatamente com esse assunto, pode ser visto aqui no Git mesmo: https://github.com/yanickrossi/sharebox/blob/master/shareBox.java
 Esse trabalho eu fiz no Ubuntu porém já não tenho mais a credencial, porque veio uma cobrança de 60 dólares no cartão de crédito no começo do ano, e então eu cancelei tudo que tinha com a AWS após estornarem o valor.
+Sobre o Elastic Search, eu nunca tinha ouvido sobre.
+
 
 Considerações finais:
 Apesar de estar com bastante coisas para fazer e não saber o que vai rolar com esse processo seletivo, que por sinal foi o primeiro que realmente tive que implementar algo desse estilo, eu achei bem legal e desafiador. Consegui um resultado que pra mim mesmo foi satisfatório, mais por ter conseguido estudar e aprender focadamente por hora seguidas ininterruptas(8 sábado e 8 domingo aproximadamente), e fazer essas maratonas de programação é algo que eu gosto, quando há um progresso como teve nesse desafio.
