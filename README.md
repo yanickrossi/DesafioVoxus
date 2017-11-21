@@ -33,7 +33,7 @@ Para desenvolver, utilizei aproximadamente 16 horas. Deixo claro que fazia aprox
 https://www.youtube.com/watch?v=gJ-hAtqqIIM (aula 1 parte 1 e 2, aula 2  e aula 6)
 https://www.youtube.com/watch?v=VKPLb2LSHOs&t=1s (bem pouco)
 Nunca tinha usado o MySQL, somente havia tido experiências com o PostgreSQL, então instalei o MySQL e utilizei. Vale dizer qque 95% das vezes que programei, o fiz no Linux(Ubuntu) e dessa vez fiz no Windows 10 utilizando a IDE do NetBeans.
-Realizei poucos testes e é importante modificar(se preciso) o usuário e a senha para realizar a conexão com o banco de dados no arquivo ConnectionFactory.java.
+Realizei poucos testes e é importante modificar(se preciso) o usuário e a senha para realizar a conexão com o banco de dados no arquivo ConnectionFactory.java. O banco que criei chama-se "voxus"
 Não fiz a parte de anexar arquivos às tarefas nem de integrar com o servidor AWS, mas tenho certeza que conseguiria fazer, já que meu ultimo trabalho foi exatamente com esse assunto, pode ser visto aqui no Git mesmo: https://github.com/yanickrossi/sharebox/blob/master/shareBox.java
 Esse trabalho eu fiz no Ubuntu porém já não tenho mais a credencial, porque veio uma cobrança de 60 dólares no cartão de crédito no começo do ano, e então eu cancelei tudo que tinha com a AWS após estornarem o valor.
 Sobre o Elastic Search, eu nunca tinha ouvido sobre.
